@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1615337669722,
+  "description": "running my test",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}
